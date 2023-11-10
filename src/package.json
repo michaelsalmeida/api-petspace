@@ -16,7 +16,8 @@
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js",
-    "dev" : "app.js"
+    "dev" : "app.js",
+    "vercel-build": "echo hello"
   },
   "keywords": [],
   "author": "",
